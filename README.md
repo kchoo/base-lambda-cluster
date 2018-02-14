@@ -1,3 +1,7 @@
+# Base AWS lambda function cluster
+
+This is a fork of https://github.com/kchoo/lint-test-framework, and a framework for building lambda function clusters will be built on top of that framework
+
 # lint-test-framework
 
 Framework for listening to file changes, linting, and then testing code
