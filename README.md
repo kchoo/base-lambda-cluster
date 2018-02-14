@@ -22,3 +22,4 @@ If there are no linting errors, it looks for all `.test.js` files, and passes th
 In addition, if you create a new JS file, a `.test.js` file will be created next to it. For now it's just a copy of `template.test.js`, but I plan to have them update whenever you export something from your JS file
 
 Note: it's recommended to keep this process running in its own dedicated terminal
+
