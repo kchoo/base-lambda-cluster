@@ -1,6 +1,6 @@
 # Base AWS lambda function cluster
 
-This is a fork of https://github.com/kchoo/lint-test-framework, and a framework for building lambda function clusters will be built on top of that framework
+This is a fork of https://github.com/kchoo/lint-test-framework, and a framework for building lambda function "clusters" will be built on top of that framework. Each "cluster" will be composed of several functions which share some "common" code. Anything common to all clusters (e.g. base code for deploying to Lambda, event manager, etc.) will be considered "core" code, and will be contained in this repo (`base-lambda-cluster`)
 
 # lint-test-framework
 
